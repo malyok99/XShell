@@ -16,7 +16,7 @@ XShell is a simple custom terminal shell built with functionality for managing a
 ## Installation
 
    ```bash
-   git clone https://github.com/malyok99/xshell.git
-   cd xshell
+   git clone https://github.com/malyok99/XShell.git
+   cd XShell
    gcc -o xshell *.c #if you added some code
    ./xshell
